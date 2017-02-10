@@ -36,3 +36,4 @@ ro.ril.vzw.feature=1
 ro.config.svlte1x=true
 ro.ril.def.agps.mode=1
 persist.radio.sib16_support=1
+rild.libpath=/vendor/lib/libril-qc-qmi-1.so

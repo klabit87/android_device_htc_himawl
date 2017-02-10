@@ -1,0 +1,3 @@
+add_lunch_combo du_himawl-user
+add_lunch_combo du_himawl-userdebug
+add_lunch_combo du_himawl-eng
